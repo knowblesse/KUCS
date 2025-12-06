@@ -4,7 +4,7 @@
 
 
 # Manual
-[Download the Manual](https://github.com/knowblesse/KUCS/blob/main/KUCS/KUCS/KUCS_Doc.pdf)
+[Download the Manual](https://github.com/knowblesse/KUCS/blob/main/KUCS_Doc.pdf)
 
 # Change Log
 ### v1.3 :
