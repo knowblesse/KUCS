@@ -1,10 +1,10 @@
 # Korea University Conditioning Simulator (KUCS)
 
-[Go to Release Page](https://github.com/knowblesse/Modeling/releases/tag/v1.3)
+[Go to Release Page](https://github.com/knowblesse/KUCS/releases/tag/v1.3)
 
 
 # Manual
-[Download the Manual](https://github.com/knowblesse/Modeling/blob/main/KUCS/KUCS/KUCS_Doc.pdf)
+[Download the Manual](https://github.com/knowblesse/KUCS/blob/main/KUCS/KUCS/KUCS_Doc.pdf)
 
 # Change Log
 ### v1.3 :
